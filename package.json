@@ -1,0 +1,23 @@
+{
+  "name": "font-explorer",
+  "version": "0.1.0",
+  "description": "Font latent space explorer using tensorflow.js",
+  "main": "index.ts",
+  "dependencies": {
+    "vue": "~2.5.9",
+    "deeplearn": "v0.5.1",
+    "d3-array": "~1.2.1",
+    "d3-format": "~1.2.1",
+    "d3-scale": "~1.0.7"
+  },
+  "devDependencies": {
+    "typescript": "^2.8.3",
+    "poi": "~9.6.8",
+    "poi-preset-typescript": "~9.0.2"
+  },
+  "scripts": {    
+    "build": "poi build ."
+  },
+  "author": "James Wexler <jwexler@google.com>",
+  "license": "Apache-2.0"
+}
