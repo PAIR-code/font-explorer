@@ -8,7 +8,9 @@
     "deeplearn": "v0.5.1",
     "d3-array": "~1.2.1",
     "d3-format": "~1.2.1",
-    "d3-scale": "~1.0.7"
+    "d3-scale": "~1.0.7",
+    "lodash": "^4.17.13",
+    "mem": "4.0.0"
   },
   "devDependencies": {
     "typescript": "^2.8.3",
