@@ -4,7 +4,7 @@
   "description": "Font latent space explorer using tensorflow.js",
   "main": "index.ts",
   "dependencies": {
-    "vue": "~2.5.9",
+    "vue": "~3.0.0",
     "deeplearn": "v0.5.1",
     "d3-array": "~1.2.1",
     "d3-format": "~1.2.1",
